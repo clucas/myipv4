@@ -1,6 +1,6 @@
 # Myipv4
 
-TODO: Write a gem description
+Simple CLI to resolve and display your public IP
 
 ## Installation
 

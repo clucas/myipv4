@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'myipv4'
+
+Myipv4

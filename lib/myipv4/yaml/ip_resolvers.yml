@@ -1,0 +1,7 @@
+---
+:minimum_requests: 2
+:sites:
+    - http://checkip.amazonaws.com/
+    - http://checkip.dyndns.org/
+    - http://ifconfig.me/ip
+    - http://corz.org/ip

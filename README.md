@@ -4,16 +4,6 @@ Simple CLI to resolve and display your public IP
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'myipv4'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
     $ gem install myipv4
 
 ## Usage
